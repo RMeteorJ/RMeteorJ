@@ -1,6 +1,4 @@
 #RMeteorJ
-========
-
 Highly modular software written in Java for radio meteor scatter observation.
 
 ####Primary goals:
